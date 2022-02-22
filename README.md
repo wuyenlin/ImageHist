@@ -9,3 +9,8 @@ python main.py --file_name ./demo.jpg --dpi 500 --save_img
 ```
 Here is the result:
 <p align="center"><img src="doc/result.jpg" width="100%" alt="" /></p>
+
+
+## TODO
+-[ ] Histogram equalization (full and partial)
+
